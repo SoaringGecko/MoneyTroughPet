@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "La9LJVEPdPXdZnyxmoKY0ZN/0CdsVNpbN/Mz9Q9P+PV/XZBJBLG4tCCTXZtqz1J+GHBI2pz2h9MZ7Q+xJvWcvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nick\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MoneyTroughPet\\MoneyTroughPet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nick\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

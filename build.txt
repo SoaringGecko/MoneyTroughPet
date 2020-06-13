@@ -1,0 +1,3 @@
+displayName = Money Trough Pet
+author = SoaringGecko
+version = 0.1

@@ -1,0 +1,4 @@
+C:\Users\Nick\Documents\My Games\Terraria\ModLoader\Mod Sources\MoneyTroughPet\obj\Debug\net45\MoneyTroughPet.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\My Games\Terraria\ModLoader\Mod Sources\MoneyTroughPet\obj\Debug\net45\MoneyTroughPet.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\My Games\Terraria\ModLoader\Mod Sources\MoneyTroughPet\obj\Debug\net45\MoneyTroughPet.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\My Games\Terraria\ModLoader\Mod Sources\MoneyTroughPet\obj\Debug\net45\MoneyTroughPet.AssemblyInfo.cs
