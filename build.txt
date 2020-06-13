@@ -1,3 +1,4 @@
 displayName = Money Trough Pet
 author = SoaringGecko
+homepage = https://github.com/SoaringGecko/MoneyTroughPet
 version = 0.1
