@@ -1,2 +1,2 @@
 # MoneyTroughPet
-Terraria mod that makes the Money Trough a pet
+Terraria mod that makes the Money Trough a equippable pet
