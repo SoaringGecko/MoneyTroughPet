@@ -28,6 +28,37 @@ namespace MoneyTroughPet.Items
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
+
+			recipe = new ModRecipe(mod);
+			recipe.AddIngredient(ItemID.PiggyBank);
+			recipe.AddTile(TileID.WorkBenches);
+			recipe.SetResult(ItemID.MoneyTrough);
+			recipe.AddRecipe();
+
+			recipe = new ModRecipe(mod);
+			recipe.AddIngredient(ItemID.MoneyTrough);
+			recipe.AddTile(TileID.WorkBenches);
+			recipe.SetResult(ItemID.PiggyBank);
+			recipe.AddRecipe();
+
+			recipe = new ModRecipe(mod);
+			recipe.AddIngredient(ItemID.PiggyBank);
+			recipe.AddTile(TileID.WorkBenches);
+			recipe.SetResult(this);
+			recipe.AddRecipe();
+
+			recipe = new ModRecipe(mod);
+			recipe.AddIngredient(this);
+			recipe.AddTile(TileID.WorkBenches);
+			recipe.SetResult(ItemID.MoneyTrough);
+			recipe.AddRecipe();
+
+			recipe = new ModRecipe(mod);
+			recipe.AddIngredient(this);
+			recipe.AddTile(TileID.WorkBenches);
+			recipe.SetResult(ItemID.PiggyBank);
+			recipe.AddRecipe();
+
 		}
 
 		public override void UseStyle(Player player)

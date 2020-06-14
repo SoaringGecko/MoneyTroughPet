@@ -10,8 +10,8 @@ namespace MoneyTroughPet.Buffs
 		public override void SetDefaults()
 		{
 			// DisplayName and Description are automatically set from the .lang files, but below is how it is done normally.
-			// DisplayName.SetDefault("Paper Airplane");
-			// Description.SetDefault("\"Let this pet be an example to you!\"");
+			DisplayName.SetDefault("Money Trough Pet");
+			Description.SetDefault("\"A Money Trough that will follow you to the ends of Terraria\"");
 			Main.buffNoTimeDisplay[Type] = true;
 			Main.vanityPet[Type] = true;
 		}
