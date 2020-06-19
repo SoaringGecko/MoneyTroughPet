@@ -1,4 +1,4 @@
 displayName = Money Trough Pet
 author = SoaringGecko
-homepage = https://github.com/SoaringGecko/MoneyTroughPet
-version = 0.3
+homepage = https://forums.terraria.org/index.php?threads/money-trough-pet.94477/
+version = 0.4

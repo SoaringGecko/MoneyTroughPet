@@ -1,1 +1,8 @@
-The Money Trough Pet mod allows you to turn the Money Trough item into a pet using a WorkBench
+								---Money Trough Pet---
+Money Trough Pet is a mod that well... makes it so you can equip the Money Trough like a pet.
+
+									---Items---
+Money Trough Pet || Can be crafted with either a Money Trough or Piggy Bank at a Work Bench
+
+								---Crafting Changes---
+You can turn the Piggy Bank into the Money Trough (and vice versa) using a Work Bench.
