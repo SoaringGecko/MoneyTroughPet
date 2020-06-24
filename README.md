@@ -1,5 +1,5 @@
 # <div align="center"><a href="#money-trough-pet"><img src="https://github.com/SoaringGecko/MoneyTroughPet/blob/master/icon.png?raw=true" height="60px"></a>Money Trough Pet<a href="#money-trough-pet"><img src="https://github.com/SoaringGecko/MoneyTroughPet/blob/master/icon.png?raw=true" height="60px"></a></div>
-Terraria mod that makes the Money Trough a equippable pet.<br/>
+Terraria mod that makes the Money Trough an equippable pet.<br/>
 You can download the mod <a href="https://github.com/SoaringGecko/MoneyTroughPet/releases">here</a>
 
 # <div align="center"><a href="#items"><img src="https://github.com/SoaringGecko/MoneyTroughPet/blob/master/icon.png?raw=true" height="60px"></a>Items<a href="#items"><img src="https://github.com/SoaringGecko/MoneyTroughPet/blob/master/icon.png?raw=true" height="60px"></a></div>
