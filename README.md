@@ -7,3 +7,6 @@ You can download the mod <a href="https://github.com/SoaringGecko/MoneyTroughPet
 
 # <div align="center"><a href="#crafting-changes"><img src="https://github.com/SoaringGecko/MoneyTroughPet/blob/master/icon.png?raw=true" height="60px"></a>Crafting Changes<a href="#crafting-changes"><img src="https://github.com/SoaringGecko/MoneyTroughPet/blob/master/icon.png?raw=true" height="60px"></a></div>
 You can turn the Piggy Bank into the Money Trough (and vice versa) using a Work Bench
+
+</br>
+<img src="http://javid.ddns.net/tModLoader/widget/widgetimage/MoneyTroughPet.png" width="500">
